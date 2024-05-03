@@ -1,4 +1,4 @@
-# Hello friends! 👋
+# Hello! 👋
 
 Anpace here.
 
